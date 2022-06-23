@@ -1,0 +1,648 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "author": null,
+          "description": "Fixed: Favicon used as article image",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "publishedOn": "2022-06-22T06:05:35.000Z",
+          "wordCount": 263,
+          "title": "v1.15.1",
+          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "author": null,
+          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "publishedOn": "2022-06-18T19:01:33.000Z",
+          "wordCount": 279,
+          "title": "v1.15.0",
+          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+        }
+      ]
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=366452",
+          "author": "Saleh Mubashar",
+          "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
+          "publishedOn": "2022-06-22T14:24:37.000Z",
+          "wordCount": 1715,
+          "title": "Different Ways to Write CSS in React",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366342",
+          "author": "Temani Afif",
+          "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-dots/",
+          "publishedOn": "2022-06-17T14:47:55.000Z",
+          "wordCount": 2406,
+          "title": "Single Element Loaders: The Dots",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366252",
+          "author": "Preethi",
+          "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
+          "publishedOn": "2022-06-15T14:15:50.000Z",
+          "wordCount": 2357,
+          "title": "Conditionally Styling Selected Elements in a Grid Container",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366388",
+          "author": "Geoff Graham",
+          "description": "Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.\nI think …\nDe-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/",
+          "publishedOn": "2022-06-14T16:48:34.000Z",
+          "wordCount": 2782,
+          "title": "De-Mystifying IndieWeb on a WordPress Site",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366260",
+          "author": "Aisha Bukar",
+          "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
+          "publishedOn": "2022-06-13T19:15:26.000Z",
+          "wordCount": 2085,
+          "title": "Useful Tools for Visualizing Databases on a Budget",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366266",
+          "author": "Temani Afif",
+          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
+          "publishedOn": "2022-06-10T14:26:06.000Z",
+          "wordCount": 2724,
+          "title": "Single Element Loaders: The Spinner",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366286",
+          "author": "Geoff Graham",
+          "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
+          "publishedOn": "2022-06-09T15:32:50.000Z",
+          "wordCount": 1518,
+          "title": "Am I on the IndieWeb yet?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366147",
+          "author": "Geoff Graham",
+          "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
+          "publishedOn": "2022-06-08T14:30:53.000Z",
+          "wordCount": 1515,
+          "title": "Let’s Make a QR Code Generator With a Serverless Function!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366222",
+          "author": "Adam Rackis",
+          "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/building-interoperable-web-components-react/",
+          "publishedOn": "2022-06-07T13:57:57.000Z",
+          "wordCount": 4575,
+          "title": "Building Interoperable Web Components That Even Work With React",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366202",
+          "author": "Geoff Graham",
+          "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/please-give-me-some-space/",
+          "publishedOn": "2022-06-03T14:39:11.000Z",
+          "wordCount": 1259,
+          "title": "Please Give Me Some Space",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365841",
+          "author": "Ganesh Dahal",
+          "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
+          "publishedOn": "2022-06-01T15:30:15.000Z",
+          "wordCount": 4493,
+          "title": "How to Create Block Theme Patterns in WordPress 6.0",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366175",
+          "author": "Geoff Graham",
+          "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
+          "publishedOn": "2022-06-01T14:12:25.000Z",
+          "wordCount": 1296,
+          "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366068",
+          "author": "Geoff Graham",
+          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
+          "publishedOn": "2022-05-27T14:25:39.000Z",
+          "wordCount": 1818,
+          "title": "Just How Long Should Alt Text Be?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366107",
+          "author": "Geoff Graham",
+          "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/beautify-github-profile/",
+          "publishedOn": "2022-05-26T18:13:28.000Z",
+          "wordCount": 866,
+          "title": "Beautify GitHub Profile",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365946",
+          "author": "Temani Afif",
+          "description": "We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …\nCool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-hover-effects-background-masks-3d/",
+          "publishedOn": "2022-05-26T14:13:01.000Z",
+          "wordCount": 3428,
+          "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
+          "author": "hello@smashingmagazine.com (Sergey Krasotin)",
+          "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
+          "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
+          "publishedOn": "2022-06-22T09:00:00.000Z",
+          "wordCount": 4720,
+          "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
+          "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
+          "publishedOn": "2022-06-21T13:00:00.000Z",
+          "wordCount": 4997,
+          "title": "Things I Wish I’d Known Earlier In My Career",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
+          "author": "hello@smashingmagazine.com (Kirill Myshkin)",
+          "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
+          "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
+          "publishedOn": "2022-06-20T09:00:00.000Z",
+          "wordCount": 5457,
+          "title": "Precise Timing With Web Animations API",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
+          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
+          "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
+          "publishedOn": "2022-06-17T09:00:00.000Z",
+          "wordCount": 4598,
+          "title": "How To Easily Build And Support Tables In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
+          "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
+          "publishedOn": "2022-06-16T09:00:00.000Z",
+          "wordCount": 4139,
+          "title": "Web Design Done Well: Delightful Data Visualization Examples",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/",
+          "author": "hello@smashingmagazine.com (Cristian Díaz)",
+          "description": "In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode by using a good set of practices, including the media query `forced-colors` and its toolset.",
+          "link": "https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/",
+          "publishedOn": "2022-06-15T09:30:00.000Z",
+          "wordCount": 6498,
+          "title": "The Guide To Windows High Contrast Mode",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.",
+          "link": "https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/",
+          "publishedOn": "2022-06-14T09:00:00.000Z",
+          "wordCount": 3790,
+          "title": "Adding Search To Your Site In 15 Minutes",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b95673f7-c059-4fae-a74a-bd1929230b29/adding-search-website-sitesearch360.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b95673f7-c059-4fae-a74a-bd1929230b29/adding-search-website-sitesearch360.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/",
+          "author": "hello@smashingmagazine.com (Eva Rio)",
+          "description": "In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.",
+          "link": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/",
+          "publishedOn": "2022-06-13T11:00:00.000Z",
+          "wordCount": 4525,
+          "title": "How To Apply UX Principles To Embedded Systems: Learnings From The Field",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/devfest-for-ukraine/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "[DevFest for Ukraine](https://devfest.gdg.org.ua/) is a charitable online conference that will bring together 20 industry-leading tech speakers in support of Ukraine. June 14–15.",
+          "link": "https://smashingmagazine.com/2022/06/devfest-for-ukraine/",
+          "publishedOn": "2022-06-10T13:59:00.000Z",
+          "wordCount": 2546,
+          "title": "DevFest For Ukraine, A Charity Conference On The Future Of Tech 🇺🇦",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0a3698-69d2-4226-9d53-f691fdac18f4/devfest-for-ukraine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0a3698-69d2-4226-9d53-f691fdac18f4/devfest-for-ukraine-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
+          "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
+          "publishedOn": "2022-06-10T08:00:00.000Z",
+          "wordCount": 6584,
+          "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
+          "author": "hello@smashingmagazine.com (Alexander Joseph)",
+          "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
+          "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
+          "publishedOn": "2022-06-09T09:00:00.000Z",
+          "wordCount": 4235,
+          "title": "The Future Of Frontend Build Tools",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
+          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
+          "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
+          "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
+          "publishedOn": "2022-06-08T09:00:00.000Z",
+          "wordCount": 4547,
+          "title": "Simplify Your Color Palette With CSS Color-Mix()",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
+          "author": "hello@smashingmagazine.com (Alexey & Alexander)",
+          "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
+          "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
+          "publishedOn": "2022-06-07T09:30:00.000Z",
+          "wordCount": 4761,
+          "title": "Digital Museums For Digital History",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
+          "author": "hello@smashingmagazine.com (Sam Poder)",
+          "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
+          "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
+          "publishedOn": "2022-06-06T09:00:00.000Z",
+          "wordCount": 4421,
+          "title": "The Case For Prisma In The Jamstack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
+          "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
+          "publishedOn": "2022-06-03T10:00:00.000Z",
+          "wordCount": 6599,
+          "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
+          "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
+          "publishedOn": "2022-06-02T09:30:00.000Z",
+          "wordCount": 6555,
+          "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
+          "author": "hello@smashingmagazine.com (Ken Harker)",
+          "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
+          "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
+          "publishedOn": "2022-06-01T10:00:00.000Z",
+          "wordCount": 6569,
+          "title": "Don’t Sink Your Website With Third Parties",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
+          "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
+          "publishedOn": "2022-05-31T12:30:00.000Z",
+          "wordCount": 4990,
+          "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask why accessibility really matters and why it is so important to get it right. Smashing’s Vitaly Friedman talks in-depth to Sara Soueidan to find out.",
+          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/",
+          "publishedOn": "2022-05-31T05:00:00.000Z",
+          "wordCount": 9667,
+          "title": "Smashing Podcast Episode 47 With Sara Soueidan: Why Does Accessibility Matter?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/81bf4897-467c-4f52-a253-ed207834c9a1/smashing-podcast-episode-47.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/81bf4897-467c-4f52-a253-ed207834c9a1/smashing-podcast-episode-47.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
+          "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
+          "publishedOn": "2022-05-30T13:30:00.000Z",
+          "wordCount": 5280,
+          "title": "What’s That (Dev) Tool?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
+          "author": "hello@smashingmagazine.com (Vijay Verma)",
+          "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
+          "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
+          "publishedOn": "2022-05-27T09:00:00.000Z",
+          "wordCount": 5018,
+          "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
+          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
+          "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
+          "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
+          "publishedOn": "2022-05-26T09:30:00.000Z",
+          "wordCount": 4835,
+          "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
+          "author": "hello@smashingmagazine.com (Frank Joseph)",
+          "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
+          "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
+          "publishedOn": "2022-05-25T09:30:00.000Z",
+          "wordCount": 4066,
+          "title": "Understanding Weak Reference In JavaScript",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
+          "author": "Abhinav Pandey",
+          "description": "In this article, we will go through the basics of Azure Cosmos DB and understand the configuration options available with it.  We will cover resource management concepts, data model, APIs, and configuration options. 1. What is Azure Cosmos DB? Azure Cosmos DB is a document database service that enables",
+          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
+          "publishedOn": "2022-06-22T23:37:48.000Z",
+          "wordCount": 3586,
+          "title": "How to Set Up Azure CosmosDB – Database Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/1_mGWQfH9O34wfTQ-cpng7ZA.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Python, there are various methods for formatting data types.  The %f formatter is specifically used for formatting float values (numbers with decimals).  We can use the %f formatter to specify the number of decimal numbers to be returned when a floating point number is rounded up.",
+          "link": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
+          "publishedOn": "2022-06-22T18:30:58.000Z",
+          "wordCount": 1179,
+          "title": "%.2f in Python – What does it Mean?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a free and open-source version control system. It is the most popular version control system in use today. Git keeps track of the changes made to a project over time. This allows multiple developers to collaborate and work on the same project in parallel, no matter where they",
+          "link": "https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/",
+          "publishedOn": "2022-06-22T18:03:49.000Z",
+          "wordCount": 2072,
+          "title": "Git Reset Origin – How to Reset a Local Branch to Remote Tracking Branch",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
+          "author": "D.M. Oladele",
+          "description": "Modern web pages are dynamic. This means we need a suitable and convenient way to modify and manipulate a web document's structure.  This modification in an HTML document, for instance, usually takes the form of creating, adding, or removing elements in the document.  In this article, you'll learn",
+          "link": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
+          "publishedOn": "2022-06-22T17:54:50.000Z",
+          "wordCount": 3653,
+          "title": "What is the DOM? The Document Object Model Explained in Plain English",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/DOM-cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-in-php/",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "An array is a special variable that we use to store or hold more than one value in a single variable without having to create more variables to store those values.  To create an array in PHP, we use the array function array( ). By default, an array of",
+          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-in-php/",
+          "publishedOn": "2022-06-22T17:30:59.000Z",
+          "wordCount": 1631,
+          "title": "PHP Array – How to Use Arrays in Your PHP Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Arrays-in-PHP-final.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article I'll explain what design patterns are and why they're useful.  We'll also go through some of the most popular design patterns out there and give examples for each of them. Let's go! Table of Contents  * What Are Design Patterns?  * Creational",
+          "link": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
+          "publishedOn": "2022-06-22T17:06:02.000Z",
+          "wordCount": 4032,
+          "title": "JavaScript Design Patterns –Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "author": "Zaira Hira",
+          "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
+          "link": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "publishedOn": "2022-06-21T21:31:23.000Z",
+          "wordCount": 1309,
+          "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-read-write-files-python--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "author": "Kolade Chris",
+          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
+          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "publishedOn": "2022-06-21T21:09:46.000Z",
+          "wordCount": 1526,
+          "title": "MVC in Computer Science – The MVC Model",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/mvc-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
+          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "publishedOn": "2022-06-21T20:59:02.000Z",
+          "wordCount": 2308,
+          "title": "How to Customize Bootstrap with Sass",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How_to_customize_Boostrap_with_Sass.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
+          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "publishedOn": "2022-06-21T17:39:06.000Z",
+          "wordCount": 1341,
+          "title": "Java Switch Statement – How to Use a Switch Case in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jaye-haych-bPOEB3sy4As-unsplash.jpg"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
