@@ -38,7 +38,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1715,
+          "wordCount": 1728,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -48,7 +48,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2406,
+          "wordCount": 2433,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
@@ -58,7 +58,7 @@
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
           "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 2357,
+          "wordCount": 2383,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
@@ -190,12 +190,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/",
+          "author": "hello@smashingmagazine.com (Anna Prenzel)",
+          "description": "In this article, we will enhance the Gantt Chart component with some interaction possibilities for editing the jobs. In doing so, we will continue to work with Vanilla JS and Web Components and look at some JavaScript libraries that can greatly simplify the effort of developing a fully functional Gantt Chart.",
+          "link": "https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/",
+          "publishedOn": "2022-06-23T11:30:00.000Z",
+          "wordCount": 5237,
+          "title": "How To Create A Vanilla JavaScript Gantt Chart: Adding Task Editing Features (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3b4b9df-4f79-4eef-8ebc-2d1f86843d45/vanilla-javascript-gantt-chart-part-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3b4b9df-4f79-4eef-8ebc-2d1f86843d45/vanilla-javascript-gantt-chart-part-2.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
           "author": "hello@smashingmagazine.com (Sergey Krasotin)",
           "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
           "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
           "publishedOn": "2022-06-22T09:00:00.000Z",
-          "wordCount": 4720,
+          "wordCount": 4717,
           "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
@@ -210,7 +225,7 @@
           "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
           "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "publishedOn": "2022-06-21T13:00:00.000Z",
-          "wordCount": 4997,
+          "wordCount": 4993,
           "title": "Things I Wish I’d Known Earlier In My Career",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
@@ -225,7 +240,7 @@
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5457,
+          "wordCount": 5462,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -240,7 +255,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4598,
+          "wordCount": 4596,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -255,7 +270,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4139,
+          "wordCount": 4140,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -270,7 +285,7 @@
           "description": "In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode by using a good set of practices, including the media query `forced-colors` and its toolset.",
           "link": "https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/",
           "publishedOn": "2022-06-15T09:30:00.000Z",
-          "wordCount": 6498,
+          "wordCount": 6502,
           "title": "The Guide To Windows High Contrast Mode",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg",
@@ -300,7 +315,7 @@
           "description": "In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.",
           "link": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/",
           "publishedOn": "2022-06-13T11:00:00.000Z",
-          "wordCount": 4525,
+          "wordCount": 4521,
           "title": "How To Apply UX Principles To Embedded Systems: Learnings From The Field",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg",
@@ -345,7 +360,7 @@
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 4235,
+          "wordCount": 4236,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -360,7 +375,7 @@
           "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
           "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
           "publishedOn": "2022-06-08T09:00:00.000Z",
-          "wordCount": 4547,
+          "wordCount": 4551,
           "title": "Simplify Your Color Palette With CSS Color-Mix()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
@@ -375,7 +390,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 4761,
+          "wordCount": 4659,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -390,7 +405,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 4421,
+          "wordCount": 4318,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -405,7 +420,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 6599,
+          "wordCount": 6593,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -435,7 +450,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 6569,
+          "wordCount": 6571,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -450,7 +465,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 4990,
+          "wordCount": 5096,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -480,7 +495,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 5280,
+          "wordCount": 5274,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -495,7 +510,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 5018,
+          "wordCount": 5022,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -510,7 +525,7 @@
           "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
           "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 4835,
+          "wordCount": 4831,
           "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
@@ -518,21 +533,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
-          "author": "hello@smashingmagazine.com (Frank Joseph)",
-          "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
-          "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
-          "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 4066,
-          "title": "Understanding Weak Reference In JavaScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg"
         }
       ]
     },
@@ -541,6 +541,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/",
+          "author": "Joel Olawanle",
+          "description": "An array is a single variable used to store elements of different datatypes so that they can be accessed through a single variable.  It is an ordered list of values, and each value is referred to as an element, which is specified by an index. Knowing that these single",
+          "link": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/",
+          "publishedOn": "2022-06-23T19:55:17.000Z",
+          "wordCount": 1705,
+          "title": "How to Loop Through an Array in JavaScript – JS Iterate Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/",
+          "author": "Dillion Megida",
+          "description": "When you're coding, there are many ways to capitalize the first letter of a word. You can use CSS as well as some JavaScript methods. In this article, I will show you one approach to achieve this. To capitalize the first letter of a word with JS, you need to",
+          "link": "https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/",
+          "publishedOn": "2022-06-23T15:46:56.000Z",
+          "wordCount": 1064,
+          "title": "JavaScript Capitalize First Letter – How to Uppercase the First Letter in a Word with JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/capitalize-first-letter.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/remove-underline-from-link-in-css/",
+          "author": "Kolade Chris",
+          "description": "If you're a web developer, you've probably wanted to get rid of the default underline that appears when you add a link to a page. Fortunately, just like other elements on a web page, you can style the anchor tags responsible for displaying a link. In this article, I will",
+          "link": "https://www.freecodecamp.org/news/remove-underline-from-link-in-css/",
+          "publishedOn": "2022-06-23T15:41:01.000Z",
+          "wordCount": 1072,
+          "title": "How to Remove Underline from a Link in CSS – HTML Style Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/writing-326357_1280.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
           "author": "Abhinav Pandey",
@@ -597,8 +627,8 @@
           "description": "Hi everyone! In this article I'll explain what design patterns are and why they're useful.  We'll also go through some of the most popular design patterns out there and give examples for each of them. Let's go! Table of Contents  * What Are Design Patterns?  * Creational",
           "link": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
           "publishedOn": "2022-06-22T17:06:02.000Z",
-          "wordCount": 4032,
-          "title": "JavaScript Design Patterns –Explained with Examples",
+          "wordCount": 4035,
+          "title": "JavaScript Design Patterns – Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043.jpg"
         },
         {
@@ -610,36 +640,6 @@
           "wordCount": 1309,
           "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-read-write-files-python--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
-          "author": "Kolade Chris",
-          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
-          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
-          "publishedOn": "2022-06-21T21:09:46.000Z",
-          "wordCount": 1526,
-          "title": "MVC in Computer Science – The MVC Model",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/mvc-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
-          "author": "Vinod Mathew Sebastian",
-          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
-          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
-          "publishedOn": "2022-06-21T20:59:02.000Z",
-          "wordCount": 2308,
-          "title": "How to Customize Bootstrap with Sass",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How_to_customize_Boostrap_with_Sass.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
-          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
-          "publishedOn": "2022-06-21T17:39:06.000Z",
-          "wordCount": 1341,
-          "title": "Java Switch Statement – How to Use a Switch Case in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jaye-haych-bPOEB3sy4As-unsplash.jpg"
         }
       ]
     }
