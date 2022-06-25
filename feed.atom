@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T02:09:30.146Z</id>
+    <id>urn:2022-06-25T02:17:28.854Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T02:09:30.146Z</updated>
+    <updated>2022-06-25T02:17:28.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
+        <link href="https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/"/>
+        <updated>2022-06-24T21:38:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use the static keyword in different parts of a Java program like variables, methods, and static blocks.  The main purpose of using the static keyword in Java is to save memory. When we create a variable in a class that will be accessed by other classes, we]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Missing Data in a Dataset]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/"/>
+        <updated>2022-06-24T21:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Missing values are common when working with real-world datasets – not the cleaned ones available on Kaggle, for example.  Missing data could result from a human factor (for example, a person deliberately failing to respond to a survey question), a problem in electrical sensors, or other factors. And when]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: The Bars]]></title>
+        <id>https://css-tricks.com/?p=366526</id>
+        <link href="https://css-tricks.com/single-element-loaders-the-bars/"/>
+        <updated>2022-06-24T20:00:29.000Z</updated>
+        <summary type="html"><![CDATA[We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …
+Single Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Data Augmentation in NLP Projects]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/"/>
+        <updated>2022-06-24T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[In machine learning, you need to have a large amount of data in order to achieve strong model performance.  Using a method known as data augmentation, you can create more data for your machine learning project. Data augmentation is a collection of techniques that manage the process of automatically]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a JavaScript String is a Valid URL]]></title>
+        <id>https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/</id>
+        <link href="https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/"/>
+        <updated>2022-06-24T15:09:54.000Z</updated>
+        <summary type="html"><![CDATA[A URL – or Uniform Resource Locator – is text used to identify resources like web pages, images, and videos on the internet. We commonly refer to URLs as website addresses, and they're used for file transfer, emails, and other applications. URLs consist of multiple parts – protocol, domain name, and]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Low-Code Dashboard for Your Startup]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/"/>
+        <updated>2022-06-24T12:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Creating a dashboard to keep track of customers and users is much easier than you may think. You can build an API-powered marketing dashboard using a low code approach.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dashboard to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice Control Usability Considerations For Partially Visually Hidden Link Names]]></title>
+        <id>https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/</id>
+        <link href="https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/"/>
+        <updated>2022-06-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Loop Through an Array in JavaScript – JS Iterate Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/</id>
@@ -66,46 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git Reset Origin – How to Reset a Local Branch to Remote Tracking Branch]]></title>
-        <id>https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/</id>
-        <link href="https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/"/>
-        <updated>2022-06-22T18:03:49.000Z</updated>
-        <summary type="html"><![CDATA[Git is a free and open-source version control system. It is the most popular version control system in use today. Git keeps track of the changes made to a project over time. This allows multiple developers to collaborate and work on the same project in parallel, no matter where they]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the DOM? The Document Object Model Explained in Plain English]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/"/>
-        <updated>2022-06-22T17:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Modern web pages are dynamic. This means we need a suitable and convenient way to modify and manipulate a web document's structure.  This modification in an HTML document, for instance, usually takes the form of creating, adding, or removing elements in the document.  In this article, you'll learn]]></summary>
-        <author>
-            <name>D.M. Oladele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Array – How to Use Arrays in Your PHP Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-arrays-in-php/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-arrays-in-php/"/>
-        <updated>2022-06-22T17:30:59.000Z</updated>
-        <summary type="html"><![CDATA[An array is a special variable that we use to store or hold more than one value in a single variable without having to create more variables to store those values.  To create an array in PHP, we use the array function array( ). By default, an array of]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Design Patterns – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-design-patterns-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-design-patterns-explained/"/>
-        <updated>2022-06-22T17:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article I'll explain what design patterns are and why they're useful.  We'll also go through some of the most popular design patterns out there and give examples for each of them. Let's go! Table of Contents  * What Are Design Patterns?  * Creational]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Different Ways to Write CSS in React]]></title>
         <id>https://css-tricks.com/?p=366452</id>
         <link href="https://css-tricks.com/different-ways-to-write-css-in-react/"/>
@@ -134,16 +165,6 @@ Different Ways to Write CSS in React originally published on CSS-Tricks. You sho
         <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover a Deleted File in Git – Revert Changes After a Hard Reset]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/"/>
-        <updated>2022-06-21T21:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want]]></summary>
-        <author>
-            <name>Zaira Hira</name>
         </author>
     </entry>
     <entry>
@@ -509,27 +530,6 @@ Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should
 Beautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D]]></title>
-        <id>https://css-tricks.com/?p=365946</id>
-        <link href="https://css-tricks.com/css-hover-effects-background-masks-3d/"/>
-        <updated>2022-05-26T14:13:01.000Z</updated>
-        <summary type="html"><![CDATA[We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …
-Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage Accessible Design System Themes With CSS Color-Contrast()]]></title>
-        <id>https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/</id>
-        <link href="https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/"/>
-        <updated>2022-05-26T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
         </author>
     </entry>
 </feed>
