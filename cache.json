@@ -48,7 +48,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1896,
+          "wordCount": 1940,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -171,16 +171,6 @@
           "wordCount": 1818,
           "title": "Just How Long Should Alt Text Be?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366107",
-          "author": "Geoff Graham",
-          "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/beautify-github-profile/",
-          "publishedOn": "2022-05-26T18:13:28.000Z",
-          "wordCount": 866,
-          "title": "Beautify GitHub Profile",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
         }
       ]
     },
@@ -518,21 +508,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
-          "author": "hello@smashingmagazine.com (Vijay Verma)",
-          "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
-          "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
-          "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 5022,
-          "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg"
         }
       ]
     },
