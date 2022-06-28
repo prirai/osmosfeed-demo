@@ -11,7 +11,7 @@
           "description": "Fixed: Favicon used as article image",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
           "publishedOn": "2022-06-22T06:05:35.000Z",
-          "wordCount": 263,
+          "wordCount": 265,
           "title": "v1.15.1",
           "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
         },
@@ -21,7 +21,7 @@
           "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
           "publishedOn": "2022-06-18T19:01:33.000Z",
-          "wordCount": 279,
+          "wordCount": 281,
           "title": "v1.15.0",
           "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
         }
@@ -33,12 +33,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366468",
+          "author": "Victor Adedokun",
+          "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
+          "publishedOn": "2022-06-27T13:27:49.000Z",
+          "wordCount": 3981,
+          "title": "Great (and Free!) Web Development Books You Can Get Online",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
+        },
+        {
           "id": "https://css-tricks.com/?p=366526",
           "author": "Temani Afif",
           "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-bars/",
           "publishedOn": "2022-06-24T20:00:29.000Z",
-          "wordCount": 2292,
+          "wordCount": 2429,
           "title": "Single Element Loaders: The Bars",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
         },
@@ -48,7 +58,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1940,
+          "wordCount": 1947,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -58,7 +68,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2430,
+          "wordCount": 2409,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
@@ -68,7 +78,7 @@
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
           "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 2383,
+          "wordCount": 2362,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
@@ -78,7 +88,7 @@
           "description": "Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.\nI think …\nDe-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/",
           "publishedOn": "2022-06-14T16:48:34.000Z",
-          "wordCount": 2782,
+          "wordCount": 2761,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
         },
@@ -88,7 +98,7 @@
           "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
           "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 2085,
+          "wordCount": 2064,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         },
@@ -98,7 +108,7 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2718,
+          "wordCount": 2697,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -108,7 +118,7 @@
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 1518,
+          "wordCount": 1497,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
@@ -118,7 +128,7 @@
           "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
           "publishedOn": "2022-06-08T14:30:53.000Z",
-          "wordCount": 1515,
+          "wordCount": 1519,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
         },
@@ -128,7 +138,7 @@
           "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/building-interoperable-web-components-react/",
           "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 4575,
+          "wordCount": 4554,
           "title": "Building Interoperable Web Components That Even Work With React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
         },
@@ -138,7 +148,7 @@
           "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/please-give-me-some-space/",
           "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 1339,
+          "wordCount": 1318,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         },
@@ -148,7 +158,7 @@
           "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
           "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 4493,
+          "wordCount": 4472,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
         },
@@ -158,7 +168,7 @@
           "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
           "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 1296,
+          "wordCount": 1275,
           "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         }
@@ -170,12 +180,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.",
+          "link": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
+          "publishedOn": "2022-06-27T12:30:00.000Z",
+          "wordCount": 4465,
+          "title": "Demystifying The New Gatsby Framework",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
           "description": "Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.",
           "link": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "publishedOn": "2022-06-24T09:00:00.000Z",
-          "wordCount": 4243,
+          "wordCount": 4248,
           "title": "Voice Control Usability Considerations For Partially Visually Hidden Link Names",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54545ed9-3238-4807-b56c-3c2b18e576c7/voice-control-usability-considerations-partially-visually-hidden-link-names-sharing-card.jpg",
@@ -235,7 +260,7 @@
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5464,
+          "wordCount": 5462,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -250,7 +275,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4696,
+          "wordCount": 4590,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -265,7 +290,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4144,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -310,7 +335,7 @@
           "description": "In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.",
           "link": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/",
           "publishedOn": "2022-06-13T11:00:00.000Z",
-          "wordCount": 4525,
+          "wordCount": 4521,
           "title": "How To Apply UX Principles To Embedded Systems: Learnings From The Field",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg",
@@ -340,7 +365,7 @@
           "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
           "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 6578,
+          "wordCount": 6580,
           "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
@@ -355,7 +380,7 @@
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 4232,
+          "wordCount": 4240,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -370,7 +395,7 @@
           "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
           "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
           "publishedOn": "2022-06-08T09:00:00.000Z",
-          "wordCount": 4547,
+          "wordCount": 4551,
           "title": "Simplify Your Color Palette With CSS Color-Mix()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
@@ -385,7 +410,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 4661,
+          "wordCount": 4657,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -400,7 +425,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 4319,
+          "wordCount": 4325,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -415,7 +440,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 6601,
+          "wordCount": 6597,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -430,7 +455,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 6546,
+          "wordCount": 6649,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -460,7 +485,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 4993,
+          "wordCount": 5002,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -490,7 +515,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 5272,
+          "wordCount": 5276,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -506,6 +531,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/",
+          "author": "Joel Olawanle",
+          "description": "When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this",
+          "link": "https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/",
+          "publishedOn": "2022-06-27T17:41:15.000Z",
+          "wordCount": 1324,
+          "title": "Refresh the Page in JavaScript – JS Reload Window Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/",
+          "author": "Jessica Wilkins",
+          "description": "HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/",
+          "publishedOn": "2022-06-27T16:41:05.000Z",
+          "wordCount": 3815,
+          "title": "Learn HTML – Responsive Web Design Study Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jackson-sophat-wUbNvDTsOIc-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see",
+          "link": "https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/",
+          "publishedOn": "2022-06-27T15:58:39.000Z",
+          "wordCount": 1457,
+          "title": "NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/brett-jordan-Ss3U6bEtKww-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/",
+          "author": "Dillion Megida",
+          "description": "There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array",
+          "link": "https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/",
+          "publishedOn": "2022-06-27T15:53:34.000Z",
+          "wordCount": 1100,
+          "title": "How to Clear a JavaScript Array – JS Empty Array",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/clear-an-array.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/",
           "author": "Ihechikara Vincent Abba",
@@ -565,46 +630,6 @@
           "wordCount": 1705,
           "title": "How to Loop Through an Array in JavaScript – JS Iterate Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/",
-          "author": "Dillion Megida",
-          "description": "When you're coding, there are many ways to capitalize the first letter of a word. You can use CSS as well as some JavaScript methods. In this article, I will show you one approach to achieve this. To capitalize the first letter of a word with JS, you need to",
-          "link": "https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/",
-          "publishedOn": "2022-06-23T15:46:56.000Z",
-          "wordCount": 1064,
-          "title": "JavaScript Capitalize First Letter – How to Uppercase the First Letter in a Word with JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/capitalize-first-letter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remove-underline-from-link-in-css/",
-          "author": "Kolade Chris",
-          "description": "If you're a web developer, you've probably wanted to get rid of the default underline that appears when you add a link to a page. Fortunately, just like other elements on a web page, you can style the anchor tags responsible for displaying a link. In this article, I will",
-          "link": "https://www.freecodecamp.org/news/remove-underline-from-link-in-css/",
-          "publishedOn": "2022-06-23T15:41:01.000Z",
-          "wordCount": 1072,
-          "title": "How to Remove Underline from a Link in CSS – HTML Style Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/writing-326357_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
-          "author": "Abhinav Pandey",
-          "description": "In this article, we will go through the basics of Azure Cosmos DB and understand the configuration options available with it.  We will cover resource management concepts, data model, APIs, and configuration options. 1. What is Azure Cosmos DB? Azure Cosmos DB is a document database service that enables",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
-          "publishedOn": "2022-06-22T23:37:48.000Z",
-          "wordCount": 3586,
-          "title": "How to Set Up Azure CosmosDB – Database Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/1_mGWQfH9O34wfTQ-cpng7ZA.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Python, there are various methods for formatting data types.  The %f formatter is specifically used for formatting float values (numbers with decimals).  We can use the %f formatter to specify the number of decimal numbers to be returned when a floating point number is rounded up.",
-          "link": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
-          "publishedOn": "2022-06-22T18:30:58.000Z",
-          "wordCount": 1179,
-          "title": "%.2f in Python – What does it Mean?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
         }
       ]
     }

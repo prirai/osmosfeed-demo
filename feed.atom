@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T02:09:49.935Z</id>
+    <id>urn:2022-06-28T02:08:45.143Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-27T02:09:49.935Z</updated>
+    <updated>2022-06-28T02:08:45.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Refresh the Page in JavaScript – JS Reload Window Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/"/>
+        <updated>2022-06-27T17:41:15.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn HTML – Responsive Web Design Study Guide]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/"/>
+        <updated>2022-06-27T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error]]></title>
+        <id>https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/</id>
+        <link href="https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/"/>
+        <updated>2022-06-27T15:58:39.000Z</updated>
+        <summary type="html"><![CDATA[This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clear a JavaScript Array – JS Empty Array]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/"/>
+        <updated>2022-06-27T15:53:34.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great (and Free!) Web Development Books You Can Get Online]]></title>
+        <id>https://css-tricks.com/?p=366468</id>
+        <link href="https://css-tricks.com/web-development-books-you-can-get-for-free/"/>
+        <updated>2022-06-27T13:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …
+Great (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Victor Adedokun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying The New Gatsby Framework]]></title>
+        <id>https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/</id>
+        <link href="https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/"/>
+        <updated>2022-06-27T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
         <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
@@ -87,26 +148,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Capitalize First Letter – How to Uppercase the First Letter in a Word with JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/"/>
-        <updated>2022-06-23T15:46:56.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding, there are many ways to capitalize the first letter of a word. You can use CSS as well as some JavaScript methods. In this article, I will show you one approach to achieve this. To capitalize the first letter of a word with JS, you need to]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove Underline from a Link in CSS – HTML Style Guide]]></title>
-        <id>https://www.freecodecamp.org/news/remove-underline-from-link-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/remove-underline-from-link-in-css/"/>
-        <updated>2022-06-23T15:41:01.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, you've probably wanted to get rid of the default underline that appears when you add a link to a page. Fortunately, just like other elements on a web page, you can style the anchor tags responsible for displaying a link. In this article, I will]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Create A Vanilla JavaScript Gantt Chart: Adding Task Editing Features (Part 2)]]></title>
         <id>https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/</id>
         <link href="https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/"/>
@@ -114,26 +155,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[In this article, we will enhance the Gantt Chart component with some interaction possibilities for editing the jobs. In doing so, we will continue to work with Vanilla JS and Web Components and look at some JavaScript libraries that can greatly simplify the effort of developing a fully functional Gantt Chart.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anna Prenzel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Azure CosmosDB – Database Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/</id>
-        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/"/>
-        <updated>2022-06-22T23:37:48.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will go through the basics of Azure Cosmos DB and understand the configuration options available with it.  We will cover resource management concepts, data model, APIs, and configuration options. 1. What is Azure Cosmos DB? Azure Cosmos DB is a document database service that enables]]></summary>
-        <author>
-            <name>Abhinav Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[%.2f in Python – What does it Mean?]]></title>
-        <id>https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/</id>
-        <link href="https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/"/>
-        <updated>2022-06-22T18:30:58.000Z</updated>
-        <summary type="html"><![CDATA[In Python, there are various methods for formatting data types.  The %f formatter is specifically used for formatting float values (numbers with decimals).  We can use the %f formatter to specify the number of decimal numbers to be returned when a floating point number is rounded up.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
