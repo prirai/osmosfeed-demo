@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T02:08:45.143Z</id>
+    <id>urn:2022-06-29T02:19:29.003Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-28T02:08:45.143Z</updated>
+    <updated>2022-06-29T02:19:29.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Check if an Item is in an Array in JavaScript – JS Contains with Array.includes()]]></title>
+        <id>https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/</id>
+        <link href="https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/"/>
+        <updated>2022-06-28T22:28:00.000Z</updated>
+        <summary type="html"><![CDATA[You can use the includes() method in JavaScript to check if an item exists in an array. You can also use it to check if a substring exists within a string.  It returns true if the item is found in the array/string and false if the item doesn't exist.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help Shape the Future of CSS-Tricks!]]></title>
+        <id>https://css-tricks.com/?p=366554</id>
+        <link href="https://css-tricks.com/help-shape-the-future-of-css-tricks/"/>
+        <updated>2022-06-28T19:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …
+Help Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Understand Complex Coding Concepts Using the Feynman Technique]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/"/>
+        <updated>2022-06-28T19:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The Feynman approach is an excellent way to gain a deeper understanding of a complex topic. It's one of the quickest ways to turn a complex topic into one that you can explain in simple terms to others. This article will teach you how to break complex coding concepts into]]></summary>
+        <author>
+            <name>CESS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Java in Ubuntu – JDK Linux Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu-jdk-linux-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu-jdk-linux-tutorial/"/>
+        <updated>2022-06-28T19:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Java is one of the most popular programming languages in use today. And a clean setup lets you seamlessly install Java and switch between different versions when you're building applications.  In this tutorial you will learn how to:  * Install any Java version,  * Switch between Java]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[429 Error – Too Many Requests HTTP Code Explained]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/"/>
+        <updated>2022-06-28T15:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are a web developer or you are a regular internet user, you might have encountered a 429 error. It means that the website can't handle the number of requests being sent to it. For a developer, this error can be hard to resolve because, on many occasions, it]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Dumbest CSS Mistakes]]></title>
+        <id>https://css-tricks.com/?p=366484</id>
+        <link href="https://css-tricks.com/my-dumbest-css-mistakes/"/>
+        <updated>2022-06-28T15:10:31.000Z</updated>
+        <summary type="html"><![CDATA[We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …
+My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Greedy Algorithms and Solve Coding Challenges]]></title>
+        <id>https://www.freecodecamp.org/news/learn-greedy-algorithms/</id>
+        <link href="https://www.freecodecamp.org/news/learn-greedy-algorithms/"/>
+        <updated>2022-06-28T14:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Many tech companies want people to solve coding challenges during interviews and many of the challenges can be solved using a greedy algorithm. A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.  We just published a course on]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 48 With Stephanie Eckles: Is Sass Still Relevant?]]></title>
+        <id>https://smashingmagazine.com/2022/06/smashing-podcast-episode-48/</id>
+        <link href="https://smashingmagazine.com/2022/06/smashing-podcast-episode-48/"/>
+        <updated>2022-06-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we ask if Sass is still relevant in 2022 and if it adds any value modern CSS workflows. Vitaly talks to expert Stephanie Eckles to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Java Program to Get the Fibonacci Series]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/"/>
+        <updated>2022-06-28T12:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The Fibonacci Series is a special kind of sequence that starts with 0 and 1, and every number after those two is the sum of the two preceding numbers.  The Fibonacci series goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, … and so on. It]]></summary>
+        <author>
+            <name>Bikash Daga (Jain)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Refresh the Page in JavaScript – JS Reload Window Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/</id>
@@ -67,26 +159,6 @@ Great (and Free!) Web Development Books You Can Get Online originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
-        <link href="https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/"/>
-        <updated>2022-06-24T21:38:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use the static keyword in different parts of a Java program like variables, methods, and static blocks.  The main purpose of using the static keyword in Java is to save memory. When we create a variable in a class that will be accessed by other classes, we]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Missing Data in a Dataset]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/"/>
-        <updated>2022-06-24T21:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Missing values are common when working with real-world datasets – not the cleaned ones available on Kaggle, for example.  Missing data could result from a human factor (for example, a person deliberately failing to respond to a survey question), a problem in electrical sensors, or other factors. And when]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Single Element Loaders: The Bars]]></title>
         <id>https://css-tricks.com/?p=366526</id>
         <link href="https://css-tricks.com/single-element-loaders-the-bars/"/>
@@ -98,36 +170,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Perform Data Augmentation in NLP Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/"/>
-        <updated>2022-06-24T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[In machine learning, you need to have a large amount of data in order to achieve strong model performance.  Using a method known as data augmentation, you can create more data for your machine learning project. Data augmentation is a collection of techniques that manage the process of automatically]]></summary>
-        <author>
-            <name>Davis David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if a JavaScript String is a Valid URL]]></title>
-        <id>https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/</id>
-        <link href="https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/"/>
-        <updated>2022-06-24T15:09:54.000Z</updated>
-        <summary type="html"><![CDATA[A URL – or Uniform Resource Locator – is text used to identify resources like web pages, images, and videos on the internet. We commonly refer to URLs as website addresses, and they're used for file transfer, emails, and other applications. URLs consist of multiple parts – protocol, domain name, and]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Low-Code Dashboard for Your Startup]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/"/>
-        <updated>2022-06-24T12:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Creating a dashboard to keep track of customers and users is much easier than you may think. You can build an API-powered marketing dashboard using a low code approach.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dashboard to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Voice Control Usability Considerations For Partially Visually Hidden Link Names]]></title>
         <id>https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/</id>
         <link href="https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/"/>
@@ -135,16 +177,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Loop Through an Array in JavaScript – JS Iterate Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/"/>
-        <updated>2022-06-23T19:55:17.000Z</updated>
-        <summary type="html"><![CDATA[An array is a single variable used to store elements of different datatypes so that they can be accessed through a single variable.  It is an ordered list of values, and each value is referred to as an element, which is specified by an index. Knowing that these single]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
@@ -469,19 +501,6 @@ How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
-        <id>https://css-tricks.com/?p=366175</id>
-        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
-        <updated>2022-06-01T14:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
-Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
-…
-SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don’t Sink Your Website With Third Parties]]></title>
         <id>https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/</id>
         <link href="https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/"/>
@@ -509,16 +528,6 @@ SPAs, Shared Element Transitions, and Re-Evaluating Technology originally publis
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask why accessibility really matters and why it is so important to get it right. Smashing’s Vitaly Friedman talks in-depth to Sara Soueidan to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s That (Dev) Tool?]]></title>
-        <id>https://smashingmagazine.com/2022/05/whats-that-dev-tool/</id>
-        <link href="https://smashingmagazine.com/2022/05/whats-that-dev-tool/"/>
-        <updated>2022-05-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
 </feed>
