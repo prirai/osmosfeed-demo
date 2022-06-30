@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T02:19:29.003Z</id>
+    <id>urn:2022-06-30T02:16:11.718Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T02:19:29.003Z</updated>
+    <updated>2022-06-30T02:16:11.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Date Comparison – How to Compare Dates in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/"/>
+        <updated>2022-06-29T19:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A date is one of the most common datatypes developers use when creating real-world applications.  But often, devs struggle with this datatype and end up using date libraries like Moment.js for simple tasks that aren't worth the large package size that comes with installing an entire package. In this]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React + Ink CLI Tutorial – How to Build a Browser Command Line Application]]></title>
+        <id>https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/"/>
+        <updated>2022-06-29T18:41:08.000Z</updated>
+        <summary type="html"><![CDATA[React is a popular front-end JavaScript development library. It ranks #1 in awareness and usage according to the State Of JS 2021 [https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/] survey.  This means that a majority of JavaScript developers likely are aware of or use React.  Even though React is popular for building web app]]></summary>
+        <author>
+            <name>Amazing Enyichi Agu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design an API – Application Programming Interface Best Practices]]></title>
+        <id>https://www.freecodecamp.org/news/design-an-api-application-program-interface/</id>
+        <link href="https://www.freecodecamp.org/news/design-an-api-application-program-interface/"/>
+        <updated>2022-06-29T18:04:39.000Z</updated>
+        <summary type="html"><![CDATA[API stands for Application Programming Interface. An API communicates with two applications using requests and responses. It is exposed to external users. How Does an API Work?  How an API worksImagine you are in a store and want to buy a soda. But you can't just walk in and]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Localhost? Local Host IP Address Explained]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-localhost/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-localhost/"/>
+        <updated>2022-06-29T16:11:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are an experienced web developer, then you’ve likely seen the term “localhost” on many occasions. And even if you’re a beginner and just getting started in web development, you might have seen the number “127.0.0.1:” while using a live server plugin. You might be using it to test]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String to Date – Date Parsing in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/"/>
+        <updated>2022-06-29T15:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Dates are a pretty fundamental concept. We use them all the time. And computers use them all the time. But parsing dates using JavaScript can be a little...well, interesting. In this article, we'll:  1. Discuss date formatting  2. Turn a wee ol' string into a proper date object]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Terraform and Azure by Building a Dev Environment]]></title>
+        <id>https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/</id>
+        <link href="https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/"/>
+        <updated>2022-06-29T14:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Terraform is an open source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and Azure to setup a]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Chose an Animation Library for My Solitaire Game]]></title>
+        <id>https://css-tricks.com/?p=366509</id>
+        <link href="https://css-tricks.com/choosing-an-animation-library-for-solitaire/"/>
+        <updated>2022-06-29T12:55:44.000Z</updated>
+        <summary type="html"><![CDATA[There is an abundance of both CSS and JavaScript libraries for animation libraries out there. So many, in fact, that choosing the right one for your project can seem impossible. That’s the situation I faced when I decided to build …
+How I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Holger Sindbaek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Convert String to Number – JS String to Int Example]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-convert-string-to-number-js-string-to-int-example/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-convert-string-to-number-js-string-to-int-example/"/>
+        <updated>2022-06-29T00:04:12.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with data from various sources, some of these data may arrive in the incorrect format. And you'll need to correct those formats before performing certain actions on the data.  This is just one of the many reasons you might want to learn how to convert a]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check if an Item is in an Array in JavaScript – JS Contains with Array.includes()]]></title>
         <id>https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/</id>
@@ -47,16 +128,6 @@ Help Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You sho
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[429 Error – Too Many Requests HTTP Code Explained]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/"/>
-        <updated>2022-06-28T15:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are a web developer or you are a regular internet user, you might have encountered a 429 error. It means that the website can't handle the number of requests being sent to it. For a developer, this error can be hard to resolve because, on many occasions, it]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Dumbest CSS Mistakes]]></title>
         <id>https://css-tricks.com/?p=366484</id>
         <link href="https://css-tricks.com/my-dumbest-css-mistakes/"/>
@@ -68,16 +139,6 @@ My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Greedy Algorithms and Solve Coding Challenges]]></title>
-        <id>https://www.freecodecamp.org/news/learn-greedy-algorithms/</id>
-        <link href="https://www.freecodecamp.org/news/learn-greedy-algorithms/"/>
-        <updated>2022-06-28T14:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Many tech companies want people to solve coding challenges during interviews and many of the challenges can be solved using a greedy algorithm. A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.  We just published a course on]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 48 With Stephanie Eckles: Is Sass Still Relevant?]]></title>
         <id>https://smashingmagazine.com/2022/06/smashing-podcast-episode-48/</id>
         <link href="https://smashingmagazine.com/2022/06/smashing-podcast-episode-48/"/>
@@ -85,56 +146,6 @@ My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the n
         <summary type="html"><![CDATA[In this episode, we ask if Sass is still relevant in 2022 and if it adds any value modern CSS workflows. Vitaly talks to expert Stephanie Eckles to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Java Program to Get the Fibonacci Series]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/"/>
-        <updated>2022-06-28T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[The Fibonacci Series is a special kind of sequence that starts with 0 and 1, and every number after those two is the sum of the two preceding numbers.  The Fibonacci series goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, … and so on. It]]></summary>
-        <author>
-            <name>Bikash Daga (Jain)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refresh the Page in JavaScript – JS Reload Window Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/"/>
-        <updated>2022-06-27T17:41:15.000Z</updated>
-        <summary type="html"><![CDATA[When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML – Responsive Web Design Study Guide]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/"/>
-        <updated>2022-06-27T16:41:05.000Z</updated>
-        <summary type="html"><![CDATA[HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error]]></title>
-        <id>https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/</id>
-        <link href="https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/"/>
-        <updated>2022-06-27T15:58:39.000Z</updated>
-        <summary type="html"><![CDATA[This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Clear a JavaScript Array – JS Empty Array]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/"/>
-        <updated>2022-06-27T15:53:34.000Z</updated>
-        <summary type="html"><![CDATA[There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
@@ -490,17 +501,6 @@ Please Give Me Some Space originally published on CSS-Tricks. You should get the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
-        <id>https://css-tricks.com/?p=365841</id>
-        <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
-        <updated>2022-06-01T15:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …
-How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don’t Sink Your Website With Third Parties]]></title>
         <id>https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/</id>
         <link href="https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/"/>
@@ -508,26 +508,6 @@ How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-
         <summary type="html"><![CDATA[In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ken Harker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expand Your Horizons (June 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/</id>
-        <link href="https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/"/>
-        <updated>2022-05-31T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 47 With Sara Soueidan: Why Does Accessibility Matter?]]></title>
-        <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/</id>
-        <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/"/>
-        <updated>2022-05-31T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask why accessibility really matters and why it is so important to get it right. Smashing’s Vitaly Friedman talks in-depth to Sara Soueidan to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
