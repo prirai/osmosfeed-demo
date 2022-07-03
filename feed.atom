@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-02T02:10:22.262Z</id>
+    <id>urn:2022-07-03T02:20:12.330Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T02:10:22.262Z</updated>
+    <updated>2022-07-03T02:20:12.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -489,16 +489,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         <summary type="html"><![CDATA[In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring The Performance Of Typefaces For Users (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/</id>
-        <link href="https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/"/>
-        <updated>2022-06-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
         </author>
     </entry>
 </feed>
