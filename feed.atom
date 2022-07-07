@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T02:28:30.177Z</id>
+    <id>urn:2022-07-07T02:24:29.384Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-06T02:28:30.177Z</updated>
+    <updated>2022-07-07T02:24:29.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Remove a Key from a Dictionary While Iterating Over it]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/"/>
+        <updated>2022-07-06T21:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Python dictionaries allow you to store values in a Key and Value format. You can access the values using the key. You can also iterate through the complete dictionary to access every element. Sometimes while iterating through the dictionary, you may need to remove a key from the dictionary. This]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a List in Python – Declare Lists in Python Example]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/"/>
+        <updated>2022-07-06T21:19:53.000Z</updated>
+        <summary type="html"><![CDATA[You can use some of the inbuilt data structures in Python to organize and store a collection of variables.  Some of these data structures include Lists, Sets, Tuples, and Dictionaries. Each of them have their own syntax and features.  In this article, we'll focus on Lists. You'll see]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Product Designer – 2022 Product Design Roadmap]]></title>
+        <id>https://www.freecodecamp.org/news/product-designer-roadmap/</id>
+        <link href="https://www.freecodecamp.org/news/product-designer-roadmap/"/>
+        <updated>2022-07-06T20:41:36.000Z</updated>
+        <summary type="html"><![CDATA[The Design industry is rapidly evolving, and there are many career choices in the space. You've got UI/UX Design, Product Design, Interaction Design, Motion Design, and more.  In this article, I will discuss a roadmap that will show you how to become a self-taught Digital Product Designer without a]]></summary>
+        <author>
+            <name>Ujah Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up GitHub User Authentication using Firebase and React (with Hooks)]]></title>
+        <id>https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/"/>
+        <updated>2022-07-06T18:18:52.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I will walk you through the process of creating a GitHub User Authentication System using Firebase and React (with hooks). If you have ever tried building an authentication system before, you might agree that it can be painful. This is where Firebase steps in. Firebase provides user]]></summary>
+        <author>
+            <name>Rishi Purwar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An SSL Error Has Occurred – How to Fix Certificate Verification Error]]></title>
+        <id>https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/</id>
+        <link href="https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/"/>
+        <updated>2022-07-06T17:51:46.000Z</updated>
+        <summary type="html"><![CDATA[If you’re surfing the net and an SSL error occurs on a website you're trying to visit, your browser will warn you by showing you an error messages or signal. This error is mostly caused by an expired or bad SSL certificate. It also occurs when the browser can’t verify]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn JavaScript Faster – Tips and Resources to Get Started Coding JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-javascript-faster/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-faster/"/>
+        <updated>2022-07-06T17:28:46.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a programming language commonly used for web development, among many other things. It works in conjunction with HTML and CSS to add dynamic functionality to websites. About 97% of the websites in the world use JavaScript – so you can see that it's a popular and widely-used language.]]></summary>
+        <author>
+            <name>Annoh Karlgusta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial –  Code Two Word Games]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/"/>
+        <updated>2022-07-06T14:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Coding games is a fun way to improve your JavaScript skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to code two word games in JavaScript. Ania Kubów developed this course. Ania works for freeCodeCamp and has a popular tutorial YouTube channel.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Pricing Page]]></title>
+        <id>https://smashingmagazine.com/2022/07/designing-better-pricing-page/</id>
+        <link href="https://smashingmagazine.com/2022/07/designing-better-pricing-page/"/>
+        <updated>2022-07-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Update NPM Dependencies]]></title>
         <id>https://www.freecodecamp.org/news/how-to-update-npm-dependencies/</id>
@@ -27,52 +107,12 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection]]></title>
-        <id>https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/"/>
+        <id>https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/"/>
         <updated>2022-07-05T22:02:13.000Z</updated>
         <summary type="html"><![CDATA[Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to]]></summary>
         <author>
             <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GitHub Copilot with Visual Studio Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/"/>
-        <updated>2022-07-05T15:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, welcome! In this article, we will learn how to use the GitHub Copilot AI tool with Visual Studio Code. What is GitHub Copilot? GitHub Copilot is a tool that can help you write easier and faster code. It is powered by GPT-3. You just have to write the]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Secure Source Code for Proprietary Software]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/"/>
-        <updated>2022-07-05T14:53:02.000Z</updated>
-        <summary type="html"><![CDATA[As software developers working on proprietary software, it's our job to create programs that provide the functionality our clients need. And it's also our job to create those programs in a way that makes them easy to use, maintain, and upgrade.  But proprietary software developers have another, much more]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes VS Docker Swarm – What is the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/"/>
-        <updated>2022-07-05T14:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Modern businesses are relying on containerization technologies to simplify the process of deploying and managing complex applications.  Containers assemble the necessary dependencies within one package. In this way, you don't need to worry about dependency-related conflicts that may arise in the production environment. Containers are portable and scalable, but]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full-Stack Authentication App With React, Express, MongoDB, Heroku, and Netlify]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/"/>
-        <updated>2022-07-05T13:50:44.000Z</updated>
-        <summary type="html"><![CDATA[It's almost impossible to build an application without registration and login functionalities. But this can be a bit tricky for beginners. In this article, I will guide you through creating a full-stack authentication application. You will start with the backend which will be built with Express and hosted on Heroku]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
         </author>
     </entry>
     <entry>
@@ -93,36 +133,6 @@
         <summary type="html"><![CDATA[In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (John Scott Bowie)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/"/>
-        <updated>2022-07-01T22:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String Comparison – How to Compare Strings in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/"/>
-        <updated>2022-07-01T22:07:46.000Z</updated>
-        <summary type="html"><![CDATA[You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Else-If Statement Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-else-if-statement-example/</id>
-        <link href="https://www.freecodecamp.org/news/python-else-if-statement-example/"/>
-        <updated>2022-07-01T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -489,16 +499,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         <summary type="html"><![CDATA[CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Museums For Digital History]]></title>
-        <id>https://smashingmagazine.com/2022/06/digital-museums-digital-history/</id>
-        <link href="https://smashingmagazine.com/2022/06/digital-museums-digital-history/"/>
-        <updated>2022-06-07T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexey &amp; Alexander)</name>
         </author>
     </entry>
 </feed>
