@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T02:24:29.384Z</id>
+    <id>urn:2022-07-08T02:19:44.303Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T02:24:29.384Z</updated>
+    <updated>2022-07-08T02:19:44.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[keyerror in Python – How to Fix Dictionary Error]]></title>
+        <id>https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/</id>
+        <link href="https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/"/>
+        <updated>2022-07-07T19:33:31.000Z</updated>
+        <summary type="html"><![CDATA[When working with dictionaries in Python, a KeyError gets raised when you try to access an item that doesn't exist in a Python dictionary. Here's a Python dictionary called student: student = {   "name": "John",   "course": "Python", } In the dictionary above, you can access the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reversing a String in JavaScript – Invert a string with the JS .reverse() Method]]></title>
+        <id>https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/</id>
+        <link href="https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/"/>
+        <updated>2022-07-07T17:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Reversing strings in JavaScript is something you'll need to do often on your web development journey. You might need to reverse a string during interviews, when solving algorithms, or when doing data manipulation. We will learn how to reverse a string in JavaScript using built-in JavaScript methods as well as]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The PHP Handbook – Learn PHP for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-php-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-php-handbook/"/>
+        <updated>2022-07-07T16:35:35.000Z</updated>
+        <summary type="html"><![CDATA[PHP is an incredibly popular programming language. Statistics say it’s used by 80% of all websites. It’s the language that powers WordPress, the widely used content management system for websites. And it also powers a lot of different frameworks that make Web Development easier, like Laravel. Speaking of Laravel, it]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Connection is Not Private Error – How to Fix in Chrome]]></title>
+        <id>https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/</id>
+        <link href="https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/"/>
+        <updated>2022-07-07T16:03:17.000Z</updated>
+        <summary type="html"><![CDATA[If you log on to a website and your browser shows the “Your connection is not private” error, the browser is trying to warn you to stay off the website. In that case, the browser has run a check on the SSL (secure socket layer) certificate and found a problem]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript DOM Manipulation Course]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-dom-manipulation/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-dom-manipulation/"/>
+        <updated>2022-07-07T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[In website development, DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from a website document. DOM manipulation is when you use JavaScript to add, remove, and modify elements of a website. It is very common in web development.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Accessibility-First Approach To Chart Visual Design]]></title>
+        <id>https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/</id>
+        <link href="https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/"/>
+        <updated>2022-07-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kent Eisenhuth &amp; Kai Chang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Nullable – How to Check for Null in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/"/>
+        <updated>2022-07-07T00:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you've gotta check to make sure that nothing isn't actually...nothing. 😲❗❓  In JavaScript, null is a primitive type intentionally containing the value of null. Undefined is a primitive type and represents a variable you declare without initiating a value. So, null is nothing and undefined is just missing]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Remove a Key from a Dictionary While Iterating Over it]]></title>
         <id>https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/</id>
@@ -46,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An SSL Error Has Occurred – How to Fix Certificate Verification Error]]></title>
-        <id>https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/</id>
-        <link href="https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/"/>
-        <updated>2022-07-06T17:51:46.000Z</updated>
-        <summary type="html"><![CDATA[If you’re surfing the net and an SSL error occurs on a website you're trying to visit, your browser will warn you by showing you an error messages or signal. This error is mostly caused by an expired or bad SSL certificate. It also occurs when the browser can’t verify]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn JavaScript Faster – Tips and Resources to Get Started Coding JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-javascript-faster/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-faster/"/>
-        <updated>2022-07-06T17:28:46.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a programming language commonly used for web development, among many other things. It works in conjunction with HTML and CSS to add dynamic functionality to websites. About 97% of the websites in the world use JavaScript – so you can see that it's a popular and widely-used language.]]></summary>
-        <author>
-            <name>Annoh Karlgusta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial –  Code Two Word Games]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/"/>
-        <updated>2022-07-06T14:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Coding games is a fun way to improve your JavaScript skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to code two word games in JavaScript. Ania Kubów developed this course. Ania works for freeCodeCamp and has a popular tutorial YouTube channel.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing A Better Pricing Page]]></title>
         <id>https://smashingmagazine.com/2022/07/designing-better-pricing-page/</id>
         <link href="https://smashingmagazine.com/2022/07/designing-better-pricing-page/"/>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Update NPM Dependencies]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-update-npm-dependencies/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-update-npm-dependencies/"/>
-        <updated>2022-07-05T22:55:20.000Z</updated>
-        <summary type="html"><![CDATA[The Node Package Manager (npm) provides various features to help you install and maintain your project's dependencies. Dependencies can become outdated over time due to bug fixes, new features, and other updates. The more project dependencies you have, the harder it is to keep up with these updates.  Outdated]]></summary>
-        <author>
-            <name>Natalie Pina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Check Empty String – Checking Null or Empty in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/"/>
-        <updated>2022-07-05T22:43:13.000Z</updated>
-        <summary type="html"><![CDATA[There are a number of reasons why you might need to check if a string is empty or not. One of the most important reasons is when you're retrieving data from a database, API, or input field. In this article, you will learn how to check if a sting is]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/"/>
-        <updated>2022-07-05T22:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to]]></summary>
-        <author>
-            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -489,16 +499,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         <summary type="html"><![CDATA[This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Joseph)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplify Your Color Palette With CSS Color-Mix()]]></title>
-        <id>https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/</id>
-        <link href="https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/"/>
-        <updated>2022-06-08T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
         </author>
     </entry>
 </feed>
