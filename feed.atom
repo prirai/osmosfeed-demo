@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T02:19:44.303Z</id>
+    <id>urn:2022-07-09T02:03:23.351Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T02:19:44.303Z</updated>
+    <updated>2022-07-09T02:03:23.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Five-Step Approach To The Metaverse]]></title>
+        <id>https://smashingmagazine.com/2022/07/five-step-approach-metaverse/</id>
+        <link href="https://smashingmagazine.com/2022/07/five-step-approach-metaverse/"/>
+        <updated>2022-07-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[keyerror in Python – How to Fix Dictionary Error]]></title>
         <id>https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/</id>
@@ -489,16 +499,6 @@ The first round required several online services along with HTML & JS changes
 Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Of Frontend Build Tools]]></title>
-        <id>https://smashingmagazine.com/2022/06/future-frontend-build-tools/</id>
-        <link href="https://smashingmagazine.com/2022/06/future-frontend-build-tools/"/>
-        <updated>2022-06-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Joseph)</name>
         </author>
     </entry>
 </feed>
