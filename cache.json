@@ -161,26 +161,6 @@
           "wordCount": 2064,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366266",
-          "author": "Temani Afif",
-          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
-          "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2692,
-          "title": "Single Element Loaders: The Spinner",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366286",
-          "author": "Geoff Graham",
-          "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
-          "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 1497,
-          "title": "Am I on the IndieWeb yet?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         }
       ]
     },
@@ -195,7 +175,7 @@
           "description": "As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.",
           "link": "https://smashingmagazine.com/2022/07/five-step-approach-metaverse/",
           "publishedOn": "2022-07-08T10:00:00.000Z",
-          "wordCount": 4834,
+          "wordCount": 4836,
           "title": "A Five-Step Approach To The Metaverse",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1675c66-5f16-43dc-a0f7-1b30e970b897/five-step-approach-metaverse.jpg",
@@ -210,7 +190,7 @@
           "description": "In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.",
           "link": "https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/",
           "publishedOn": "2022-07-07T09:00:00.000Z",
-          "wordCount": 4839,
+          "wordCount": 4933,
           "title": "An Accessibility-First Approach To Chart Visual Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cd18ef2b-760e-4a64-8c24-89d871b6b1f3/accessibility-first-approach-chart-visual-design.jpg",
@@ -225,7 +205,7 @@
           "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
           "publishedOn": "2022-07-06T12:00:00.000Z",
-          "wordCount": 8853,
+          "wordCount": 8857,
           "title": "Designing A Better Pricing Page",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
@@ -240,7 +220,7 @@
           "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
           "link": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
           "publishedOn": "2022-07-05T09:00:00.000Z",
-          "wordCount": 7331,
+          "wordCount": 7233,
           "title": "How To Build A Localized Website With Hugo And Strapi",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg",
@@ -300,7 +280,7 @@
           "description": "Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.",
           "link": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
           "publishedOn": "2022-06-27T12:30:00.000Z",
-          "wordCount": 4460,
+          "wordCount": 4456,
           "title": "Demystifying The New Gatsby Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg",
@@ -315,7 +295,7 @@
           "description": "Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.",
           "link": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "publishedOn": "2022-06-24T09:00:00.000Z",
-          "wordCount": 4239,
+          "wordCount": 4241,
           "title": "Voice Control Usability Considerations For Partially Visually Hidden Link Names",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54545ed9-3238-4807-b56c-3c2b18e576c7/voice-control-usability-considerations-partially-visually-hidden-link-names-sharing-card.jpg",
@@ -345,7 +325,7 @@
           "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
           "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
           "publishedOn": "2022-06-22T09:00:00.000Z",
-          "wordCount": 4718,
+          "wordCount": 4716,
           "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
@@ -360,7 +340,7 @@
           "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
           "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "publishedOn": "2022-06-21T13:00:00.000Z",
-          "wordCount": 4982,
+          "wordCount": 4989,
           "title": "Things I Wish I’d Known Earlier In My Career",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
@@ -375,7 +355,7 @@
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5553,
+          "wordCount": 5455,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -390,7 +370,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4591,
+          "wordCount": 4589,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -405,7 +385,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4137,
+          "wordCount": 4125,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -450,7 +430,7 @@
           "description": "In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.",
           "link": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/",
           "publishedOn": "2022-06-13T11:00:00.000Z",
-          "wordCount": 4514,
+          "wordCount": 4518,
           "title": "How To Apply UX Principles To Embedded Systems: Learnings From The Field",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg",
@@ -458,36 +438,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/devfest-for-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "[DevFest for Ukraine](https://devfest.gdg.org.ua/) is a charitable online conference that will bring together 20 industry-leading tech speakers in support of Ukraine. June 14–15.",
-          "link": "https://smashingmagazine.com/2022/06/devfest-for-ukraine/",
-          "publishedOn": "2022-06-10T13:59:00.000Z",
-          "wordCount": 2546,
-          "title": "DevFest For Ukraine, A Charity Conference On The Future Of Tech 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0a3698-69d2-4226-9d53-f691fdac18f4/devfest-for-ukraine-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0a3698-69d2-4226-9d53-f691fdac18f4/devfest-for-ukraine-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
-          "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
-          "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 6574,
-          "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg"
         }
       ]
     },
