@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T02:13:28.437Z</id>
+    <id>urn:2022-07-12T02:25:59.297Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-11T02:13:28.437Z</updated>
+    <updated>2022-07-12T02:25:59.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Automated Pull Request Checklist in GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/"/>
+        <updated>2022-07-11T23:06:03.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.]]></summary>
+        <author>
+            <name>Brittany Joiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Node.js – Beginner's Guide to Node]]></title>
+        <id>https://www.freecodecamp.org/news/intoduction-to-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/intoduction-to-nodejs/"/>
+        <updated>2022-07-11T21:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node]]></summary>
+        <author>
+            <name>Arash Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Format – Formatting Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/"/>
+        <updated>2022-07-11T18:38:41.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Check if Undefined – How to Test for Undefined in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/"/>
+        <updated>2022-07-11T17:13:42.000Z</updated>
+        <summary type="html"><![CDATA[An undefined variable or anything without a value will always return "undefined" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/"/>
+        <updated>2022-07-11T15:52:33.000Z</updated>
+        <summary type="html"><![CDATA["I hate stack overflow" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)]]></title>
+        <id>https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/</id>
+        <link href="https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/"/>
+        <updated>2022-07-11T14:40:04.000Z</updated>
+        <summary type="html"><![CDATA[OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing for Developers]]></title>
+        <id>https://css-tricks.com/?p=366609</id>
+        <link href="https://css-tricks.com/technical-writing-for-developers/"/>
+        <updated>2022-07-11T12:50:13.000Z</updated>
+        <summary type="html"><![CDATA[HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …
+Technical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Eluda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look At Remix And The Differences With Next.js]]></title>
+        <id>https://smashingmagazine.com/2022/07/look-remix-differences-next/</id>
+        <link href="https://smashingmagazine.com/2022/07/look-remix-differences-next/"/>
+        <updated>2022-07-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Five-Step Approach To The Metaverse]]></title>
         <id>https://smashingmagazine.com/2022/07/five-step-approach-metaverse/</id>
@@ -56,16 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript DOM Manipulation Course]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-dom-manipulation/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-dom-manipulation/"/>
-        <updated>2022-07-07T13:15:27.000Z</updated>
-        <summary type="html"><![CDATA[In website development, DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from a website document. DOM manipulation is when you use JavaScript to add, remove, and modify elements of a website. It is very common in web development.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Accessibility-First Approach To Chart Visual Design]]></title>
         <id>https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/</id>
         <link href="https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/"/>
@@ -76,57 +147,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Nullable – How to Check for Null in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/"/>
-        <updated>2022-07-07T00:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you've gotta check to make sure that nothing isn't actually...nothing. 😲❗❓  In JavaScript, null is a primitive type intentionally containing the value of null. Undefined is a primitive type and represents a variable you declare without initiating a value. So, null is nothing and undefined is just missing]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Key from a Dictionary While Iterating Over it]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/"/>
-        <updated>2022-07-06T21:56:37.000Z</updated>
-        <summary type="html"><![CDATA[Python dictionaries allow you to store values in a Key and Value format. You can access the values using the key. You can also iterate through the complete dictionary to access every element. Sometimes while iterating through the dictionary, you may need to remove a key from the dictionary. This]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a List in Python – Declare Lists in Python Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/"/>
-        <updated>2022-07-06T21:19:53.000Z</updated>
-        <summary type="html"><![CDATA[You can use some of the inbuilt data structures in Python to organize and store a collection of variables.  Some of these data structures include Lists, Sets, Tuples, and Dictionaries. Each of them have their own syntax and features.  In this article, we'll focus on Lists. You'll see]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Product Designer – 2022 Product Design Roadmap]]></title>
-        <id>https://www.freecodecamp.org/news/product-designer-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/product-designer-roadmap/"/>
-        <updated>2022-07-06T20:41:36.000Z</updated>
-        <summary type="html"><![CDATA[The Design industry is rapidly evolving, and there are many career choices in the space. You've got UI/UX Design, Product Design, Interaction Design, Motion Design, and more.  In this article, I will discuss a roadmap that will show you how to become a self-taught Digital Product Designer without a]]></summary>
-        <author>
-            <name>Ujah Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up GitHub User Authentication using Firebase and React (with Hooks)]]></title>
-        <id>https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/"/>
-        <updated>2022-07-06T18:18:52.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I will walk you through the process of creating a GitHub User Authentication System using Firebase and React (with hooks). If you have ever tried building an authentication system before, you might agree that it can be painful. This is where Firebase steps in. Firebase provides user]]></summary>
-        <author>
-            <name>Rishi Purwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing A Better Pricing Page]]></title>
+        <title type="html"><![CDATA[Designing A Perfect Pricing Page UX]]></title>
         <id>https://smashingmagazine.com/2022/07/designing-better-pricing-page/</id>
         <link href="https://smashingmagazine.com/2022/07/designing-better-pricing-page/"/>
         <updated>2022-07-06T12:00:00.000Z</updated>
@@ -153,6 +174,18 @@
         <summary type="html"><![CDATA[In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (John Scott Bowie)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collective Nouns for the Web]]></title>
+        <id>https://css-tricks.com/?p=366689</id>
+        <link href="https://css-tricks.com/collective-nouns-for-the-web/"/>
+        <updated>2022-07-01T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.
+Things …
+Collective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

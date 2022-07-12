@@ -33,6 +33,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366609",
+          "author": "Eluda",
+          "description": "HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …\nTechnical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/technical-writing-for-developers/",
+          "publishedOn": "2022-07-11T12:50:13.000Z",
+          "wordCount": 5436,
+          "title": "Technical Writing for Developers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366609"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366689",
+          "author": "Geoff Graham",
+          "description": "Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.\nThings …\nCollective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/collective-nouns-for-the-web/",
+          "publishedOn": "2022-07-01T19:15:00.000Z",
+          "wordCount": 923,
+          "title": "Collective Nouns for the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366689"
+        },
+        {
           "id": "https://css-tricks.com/?p=366544",
           "author": "Temani Afif",
           "description": "For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …\nSingle Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.",
@@ -170,12 +190,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.",
+          "link": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
+          "publishedOn": "2022-07-11T09:00:00.000Z",
+          "wordCount": 4029,
+          "title": "A Look At Remix And The Differences With Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/07/five-step-approach-metaverse/",
           "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
           "description": "As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.",
           "link": "https://smashingmagazine.com/2022/07/five-step-approach-metaverse/",
           "publishedOn": "2022-07-08T10:00:00.000Z",
-          "wordCount": 4831,
+          "wordCount": 4838,
           "title": "A Five-Step Approach To The Metaverse",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1675c66-5f16-43dc-a0f7-1b30e970b897/five-step-approach-metaverse.jpg",
@@ -190,7 +225,7 @@
           "description": "In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.",
           "link": "https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/",
           "publishedOn": "2022-07-07T09:00:00.000Z",
-          "wordCount": 4839,
+          "wordCount": 4837,
           "title": "An Accessibility-First Approach To Chart Visual Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cd18ef2b-760e-4a64-8c24-89d871b6b1f3/accessibility-first-approach-chart-visual-design.jpg",
@@ -205,8 +240,8 @@
           "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
           "publishedOn": "2022-07-06T12:00:00.000Z",
-          "wordCount": 8857,
-          "title": "Designing A Better Pricing Page",
+          "wordCount": 8859,
+          "title": "Designing A Perfect Pricing Page UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
             "length": "0",
@@ -220,7 +255,7 @@
           "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
           "link": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
           "publishedOn": "2022-07-05T09:00:00.000Z",
-          "wordCount": 7233,
+          "wordCount": 7230,
           "title": "How To Build A Localized Website With Hugo And Strapi",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg",
@@ -235,7 +270,7 @@
           "description": "In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.",
           "link": "https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/",
           "publishedOn": "2022-07-04T14:00:00.000Z",
-          "wordCount": 5582,
+          "wordCount": 5585,
           "title": "Accelerating UX Maturity With A Breakthrough Project",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/266042e4-990d-4e79-bdf2-ad217d6577c1/accelerating-ux-maturity-breakthrough-project.jpg",
@@ -250,7 +285,7 @@
           "description": "Let’s welcome the new month with some inspiring desktop wallpapers. Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2022. Enjoy!",
           "link": "https://smashingmagazine.com/2022/06/desktop-wallpaper-calendars-july-2022/",
           "publishedOn": "2022-06-30T07:00:00.000Z",
-          "wordCount": 4293,
+          "wordCount": 4301,
           "title": "Jump Into July (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05736c24-15e7-4229-ae24-4c55cd60aec0/july-22-melting-july-preview-opt.png",
@@ -295,7 +330,7 @@
           "description": "Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.",
           "link": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "publishedOn": "2022-06-24T09:00:00.000Z",
-          "wordCount": 4241,
+          "wordCount": 4345,
           "title": "Voice Control Usability Considerations For Partially Visually Hidden Link Names",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54545ed9-3238-4807-b56c-3c2b18e576c7/voice-control-usability-considerations-partially-visually-hidden-link-names-sharing-card.jpg",
@@ -340,7 +375,7 @@
           "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
           "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "publishedOn": "2022-06-21T13:00:00.000Z",
-          "wordCount": 4985,
+          "wordCount": 4996,
           "title": "Things I Wish I’d Known Earlier In My Career",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
@@ -355,7 +390,7 @@
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5455,
+          "wordCount": 5457,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -370,7 +405,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4591,
+          "wordCount": 4586,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -385,7 +420,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4128,
+          "wordCount": 4133,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -400,7 +435,7 @@
           "description": "In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode by using a good set of practices, including the media query `forced-colors` and its toolset.",
           "link": "https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/",
           "publishedOn": "2022-06-15T09:30:00.000Z",
-          "wordCount": 6491,
+          "wordCount": 6497,
           "title": "The Guide To Windows High Contrast Mode",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg",
@@ -447,6 +482,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
+          "author": "Brittany Joiner",
+          "description": "If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.",
+          "link": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
+          "publishedOn": "2022-07-11T23:06:03.000Z",
+          "wordCount": 2829,
+          "title": "How to Create an Automated Pull Request Checklist in GitHub",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Pink-Money-Making-Apps-YouTube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
+          "author": "Arash Arora",
+          "description": "Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node",
+          "link": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
+          "publishedOn": "2022-07-11T21:31:18.000Z",
+          "wordCount": 2692,
+          "title": "How to Get Started with Node.js – Beginner's Guide to Node",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/1200px-Node.js_logo.svg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
+          "author": "Dillion Megida",
+          "description": "JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method",
+          "link": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
+          "publishedOn": "2022-07-11T18:38:41.000Z",
+          "wordCount": 1220,
+          "title": "JavaScript String Format – Formatting Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/js-string-format.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
+          "author": "Joel Olawanle",
+          "description": "An undefined variable or anything without a value will always return \"undefined\" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.",
+          "link": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
+          "publishedOn": "2022-07-11T17:13:42.000Z",
+          "wordCount": 1262,
+          "title": "JavaScript Check if Undefined – How to Test for Undefined in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--9-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "author": "Emmanuel Ohans",
+          "description": "\"I hate stack overflow\" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope",
+          "link": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "publishedOn": "2022-07-11T15:52:33.000Z",
+          "wordCount": 6089,
+          "title": "The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/combined-blog-cover-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "author": "Beau Carnes",
+          "description": "OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and",
+          "link": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "publishedOn": "2022-07-11T14:40:04.000Z",
+          "wordCount": 8199,
+          "title": "OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/openstack.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/",
           "author": "Ihechikara Vincent Abba",
           "description": "When working with dictionaries in Python, a KeyError gets raised when you try to access an item that doesn't exist in a Python dictionary. Here's a Python dictionary called student: student = {   \"name\": \"John\",   \"course\": \"Python\", } In the dictionary above, you can access the",
@@ -485,66 +580,6 @@
           "wordCount": 1360,
           "title": "Your Connection is Not Private Error – How to Fix in Chrome",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/castle-1290860_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-dom-manipulation/",
-          "author": "Beau Carnes",
-          "description": "In website development, DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from a website document. DOM manipulation is when you use JavaScript to add, remove, and modify elements of a website. It is very common in web development.",
-          "link": "https://www.freecodecamp.org/news/javascript-dom-manipulation/",
-          "publishedOn": "2022-07-07T13:15:27.000Z",
-          "wordCount": 950,
-          "title": "JavaScript DOM Manipulation Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/jsdom.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/",
-          "author": "Eamonn Cottrell",
-          "description": "Sometimes you've gotta check to make sure that nothing isn't actually...nothing. 😲❗❓  In JavaScript, null is a primitive type intentionally containing the value of null. Undefined is a primitive type and represents a variable you declare without initiating a value. So, null is nothing and undefined is just missing",
-          "link": "https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/",
-          "publishedOn": "2022-07-07T00:07:35.000Z",
-          "wordCount": 1275,
-          "title": "JavaScript Nullable – How to Check for Null in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/javascript-null.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/",
-          "author": "Vikram Aruchamy",
-          "description": "Python dictionaries allow you to store values in a Key and Value format. You can access the values using the key. You can also iterate through the complete dictionary to access every element. Sometimes while iterating through the dictionary, you may need to remove a key from the dictionary. This",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/",
-          "publishedOn": "2022-07-06T21:56:37.000Z",
-          "wordCount": 1830,
-          "title": "How to Remove a Key from a Dictionary While Iterating Over it",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Freecodecamp_dictionary_delete_iterate.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use some of the inbuilt data structures in Python to organize and store a collection of variables.  Some of these data structures include Lists, Sets, Tuples, and Dictionaries. Each of them have their own syntax and features.  In this article, we'll focus on Lists. You'll see",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/",
-          "publishedOn": "2022-07-06T21:19:53.000Z",
-          "wordCount": 1739,
-          "title": "How to Make a List in Python – Declare Lists in Python Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/kelly-sikkema--1_RZL8BGBM-unsplash--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/product-designer-roadmap/",
-          "author": "Ujah Emmanuel",
-          "description": "The Design industry is rapidly evolving, and there are many career choices in the space. You've got UI/UX Design, Product Design, Interaction Design, Motion Design, and more.  In this article, I will discuss a roadmap that will show you how to become a self-taught Digital Product Designer without a",
-          "link": "https://www.freecodecamp.org/news/product-designer-roadmap/",
-          "publishedOn": "2022-07-06T20:41:36.000Z",
-          "wordCount": 2089,
-          "title": "How to Become a Product Designer – 2022 Product Design Roadmap",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/product-designer-roadmap-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/",
-          "author": "Rishi Purwar",
-          "description": "In this tutorial, I will walk you through the process of creating a GitHub User Authentication System using Firebase and React (with hooks). If you have ever tried building an authentication system before, you might agree that it can be painful. This is where Firebase steps in. Firebase provides user",
-          "link": "https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/",
-          "publishedOn": "2022-07-06T18:18:52.000Z",
-          "wordCount": 6736,
-          "title": "How to Set Up GitHub User Authentication using Firebase and React (with Hooks)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Modern-Music-Electronic-Channel-Youtube-Thumbnail-3.png"
         }
       ]
     }
