@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-12T02:25:59.297Z</id>
+    <id>urn:2022-07-13T02:15:07.864Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-12T02:25:59.297Z</updated>
+    <updated>2022-07-13T02:15:07.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Use Flutter for Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/why-you-should-use-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-use-flutter/"/>
+        <updated>2022-07-12T20:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is a UI toolkit and SDK which you can use to build applications. Flutter is open source and you can use it to build highly performant mobile and desktop apps.  In this article, I'll explain in detail the various benefits of using Flutter so you can decide whether]]></summary>
+        <author>
+            <name>Obumuneme Nwabude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with Python – How to Scrape Data from Twitter using Tweepy and Snscrape]]></title>
+        <id>https://www.freecodecamp.org/news/python-web-scraping-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/python-web-scraping-tutorial/"/>
+        <updated>2022-07-12T17:58:29.000Z</updated>
+        <summary type="html"><![CDATA[If you are a data enthusiast, you'll likely agree that one of the richest sources of real-world data is social media. Sites like Twitter are full of data. You can use the data you can get from social media in a number of ways, like sentiment analysis (analyzing people's thoughts)]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List indexOf for Python? How to Get the Index of an Item in a List with .index()]]></title>
+        <id>https://www.freecodecamp.org/news/list-indexof-for-python-how-to-get-the-index-of-an-item-in-a-list-with-index/</id>
+        <link href="https://www.freecodecamp.org/news/list-indexof-for-python-how-to-get-the-index-of-an-item-in-a-list-with-index/"/>
+        <updated>2022-07-12T17:51:33.000Z</updated>
+        <summary type="html"><![CDATA[There are various techniques that we can use to get the index of a list item in Python, such as the enumerate() function, a for loop, and the index() method.  In this article, we'll focus on how to get the index of an item in a list using the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With Open in Python – With Statement Syntax Example]]></title>
+        <id>https://www.freecodecamp.org/news/with-open-in-python-with-statement-syntax-example/</id>
+        <link href="https://www.freecodecamp.org/news/with-open-in-python-with-statement-syntax-example/"/>
+        <updated>2022-07-12T17:20:54.000Z</updated>
+        <summary type="html"><![CDATA[The Python programming language has various functions and statements for working with a file. The with statement and open() function are two of those statements and functions. In this article, you will learn how to use both the with statement and open()  function to work with files in Python.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Praise of Shadows]]></title>
+        <id>https://css-tricks.com/?p=366896</id>
+        <link href="https://css-tricks.com/in-praise-of-shadows/"/>
+        <updated>2022-07-12T17:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …
+In Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Population vs Sample – Statistics Example]]></title>
+        <id>https://www.freecodecamp.org/news/population-vs-sample-statistics-example/</id>
+        <link href="https://www.freecodecamp.org/news/population-vs-sample-statistics-example/"/>
+        <updated>2022-07-12T17:07:34.000Z</updated>
+        <summary type="html"><![CDATA[When working with data sets and conducting a statistical analysis, you need to ensure that the data set you are using is relevant, valid, and correct. The appropriate data will help you make sure that you have a correct outcome and come to an effective conclusion and solution that solves]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git and GitHub – Version Control Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/git-and-github-the-basics/</id>
+        <link href="https://www.freecodecamp.org/news/git-and-github-the-basics/"/>
+        <updated>2022-07-12T16:55:20.000Z</updated>
+        <summary type="html"><![CDATA[A Version Control System is a tool you use to track, make, and manage changes to your software code. It's also called source control. A version control system helps developers store every change they make to a file at different stages so they and their teammates can retrieve those changes]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 49 With Paul Boag: How Do You Ship A Billion-Dollar Idea?]]></title>
+        <id>https://smashingmagazine.com/2022/07/smashing-podcast-episode-49/</id>
+        <link href="https://smashingmagazine.com/2022/07/smashing-podcast-episode-49/"/>
+        <updated>2022-07-12T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we ask what qualities are required to introduce change in large organizations, how to convince management to do the right thing, and how to ship a billion-dollar idea. Vitaly talks to expert Paul Boag to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Job in PostgreSQL]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-schedule-a-job-in-postgresql/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-schedule-a-job-in-postgresql/"/>
+        <updated>2022-07-12T14:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Scheduling allows you to automate things so you don't have to do them in real time. In this article we will see how to schedule a job in PostgreSQL. We'll use pgAgent, a job scheduling agent for PostgreSQL. How to Install PostgreSQL and Stack Builder You can install pgAgent with]]></summary>
+        <author>
+            <name>Jagruti Tiwari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kendo UI For Angular Data Grid And Angular Material: Have Your Cake And Eat It Too]]></title>
+        <id>https://smashingmagazine.com/2022/07/kendo-ui-angular-data-grid-material/</id>
+        <link href="https://smashingmagazine.com/2022/07/kendo-ui-angular-data-grid-material/"/>
+        <updated>2022-07-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Zara Cooper will examine some of the features of the Kendo UI for Angular Data Grid in comparison to those offered by the Angular Material Table.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an Automated Pull Request Checklist in GitHub]]></title>
         <id>https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/</id>
@@ -36,36 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Check if Undefined – How to Test for Undefined in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/"/>
-        <updated>2022-07-11T17:13:42.000Z</updated>
-        <summary type="html"><![CDATA[An undefined variable or anything without a value will always return "undefined" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/</id>
-        <link href="https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/"/>
-        <updated>2022-07-11T15:52:33.000Z</updated>
-        <summary type="html"><![CDATA["I hate stack overflow" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope]]></summary>
-        <author>
-            <name>Emmanuel Ohans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)]]></title>
-        <id>https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/</id>
-        <link href="https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/"/>
-        <updated>2022-07-11T14:40:04.000Z</updated>
-        <summary type="html"><![CDATA[OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Technical Writing for Developers]]></title>
         <id>https://css-tricks.com/?p=366609</id>
         <link href="https://css-tricks.com/technical-writing-for-developers/"/>
@@ -94,46 +165,6 @@ Technical Writing for Developers originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[keyerror in Python – How to Fix Dictionary Error]]></title>
-        <id>https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/</id>
-        <link href="https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/"/>
-        <updated>2022-07-07T19:33:31.000Z</updated>
-        <summary type="html"><![CDATA[When working with dictionaries in Python, a KeyError gets raised when you try to access an item that doesn't exist in a Python dictionary. Here's a Python dictionary called student: student = {   "name": "John",   "course": "Python", } In the dictionary above, you can access the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reversing a String in JavaScript – Invert a string with the JS .reverse() Method]]></title>
-        <id>https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/</id>
-        <link href="https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/"/>
-        <updated>2022-07-07T17:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Reversing strings in JavaScript is something you'll need to do often on your web development journey. You might need to reverse a string during interviews, when solving algorithms, or when doing data manipulation. We will learn how to reverse a string in JavaScript using built-in JavaScript methods as well as]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The PHP Handbook – Learn PHP for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/the-php-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-php-handbook/"/>
-        <updated>2022-07-07T16:35:35.000Z</updated>
-        <summary type="html"><![CDATA[PHP is an incredibly popular programming language. Statistics say it’s used by 80% of all websites. It’s the language that powers WordPress, the widely used content management system for websites. And it also powers a lot of different frameworks that make Web Development easier, like Laravel. Speaking of Laravel, it]]></summary>
-        <author>
-            <name>Flavio Copes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Connection is Not Private Error – How to Fix in Chrome]]></title>
-        <id>https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/</id>
-        <link href="https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/"/>
-        <updated>2022-07-07T16:03:17.000Z</updated>
-        <summary type="html"><![CDATA[If you log on to a website and your browser shows the “Your connection is not private” error, the browser is trying to warn you to stay off the website. In that case, the browser has run a check on the SSL (secure socket layer) certificate and found a problem]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -251,7 +282,8 @@ How I Chose an Animation Library for My Solitaire Game originally published on C
         <id>https://css-tricks.com/?p=366554</id>
         <link href="https://css-tricks.com/help-shape-the-future-of-css-tricks/"/>
         <updated>2022-06-28T19:52:48.000Z</updated>
-        <summary type="html"><![CDATA[Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …
+        <summary type="html"><![CDATA[Head’s up! The survey closed on July 12, 2022. We got tons of responses — thanks to everyone for helping us out!
+Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. …
 Help Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
@@ -467,27 +499,6 @@ De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Tools for Visualizing Databases on a Budget]]></title>
-        <id>https://css-tricks.com/?p=366260</id>
-        <link href="https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/"/>
-        <updated>2022-06-13T19:15:26.000Z</updated>
-        <summary type="html"><![CDATA[A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …
-Useful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Apply UX Principles To Embedded Systems: Learnings From The Field]]></title>
-        <id>https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/</id>
-        <link href="https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/"/>
-        <updated>2022-06-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eva Rio)</name>
         </author>
     </entry>
 </feed>
